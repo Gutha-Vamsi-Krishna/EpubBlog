@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://gutha-vamsi-krishna.github.io/csb-ulbcb/static/js/main.964714cf.chunk.js",
+    "main.js.map": "https://gutha-vamsi-krishna.github.io/csb-ulbcb/static/js/main.964714cf.chunk.js.map",
+    "runtime-main.js": "https://gutha-vamsi-krishna.github.io/csb-ulbcb/static/js/runtime-main.e5c76a2a.js",
+    "runtime-main.js.map": "https://gutha-vamsi-krishna.github.io/csb-ulbcb/static/js/runtime-main.e5c76a2a.js.map",
+    "static/js/2.b57ce645.chunk.js": "https://gutha-vamsi-krishna.github.io/csb-ulbcb/static/js/2.b57ce645.chunk.js",
+    "static/js/2.b57ce645.chunk.js.map": "https://gutha-vamsi-krishna.github.io/csb-ulbcb/static/js/2.b57ce645.chunk.js.map",
+    "index.html": "https://gutha-vamsi-krishna.github.io/csb-ulbcb/index.html",
+    "static/js/2.b57ce645.chunk.js.LICENSE.txt": "https://gutha-vamsi-krishna.github.io/csb-ulbcb/static/js/2.b57ce645.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5c76a2a.js",
+    "static/js/2.b57ce645.chunk.js",
+    "static/js/main.964714cf.chunk.js"
+  ]
+}
